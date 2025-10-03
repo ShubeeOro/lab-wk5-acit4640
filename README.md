@@ -13,6 +13,5 @@ Run ```packer build .``` inside the folder
 The scripts folder has an additional script called ```setup-dir``` which contains commands to setup the necessary directories for the AMI
 
 ## Screenshot
-If image fails to load for some reason, screenshot is in this repo.
-<img width="3837" height="2054" alt="image" src="https://github.com/user-attachments/assets/8e2ed09f-07c1-4244-8481-9fc4da0797bc" />
-
+<img width="3837" height="2029" alt="image" src="https://github.com/user-attachments/assets/eedb0d0c-1574-49da-943f-32c402ddf765" />
+<img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/783f12de-5893-4670-a642-54fe5488c99d" />
