@@ -1,8 +1,8 @@
 # wk5-Packer-lab-ACIT4640
 
-Kevin Ding 
-Ahmed Ali
-Hanan Kakooza
+Kevin Ding   
+Ahmed Ali   
+Hanan Kakooza   
 
 ## How to run
 Clone the repo and go into the folder   
