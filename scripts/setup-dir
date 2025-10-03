@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+sudo mkdir -p /web/html
+sudo mkdir -p /tmp/web
+sudo chown -R admin:admin /web
+sudo chown -R admin:admin /tmp/web
+
+
